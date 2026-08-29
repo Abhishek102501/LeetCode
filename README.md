@@ -18,4 +18,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek102501/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
