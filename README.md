@@ -21,9 +21,14 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
