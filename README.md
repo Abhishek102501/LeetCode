@@ -22,6 +22,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -31,14 +32,17 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -48,4 +52,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
