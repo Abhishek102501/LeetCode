@@ -24,10 +24,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Array
 |  |
 | ------- |
@@ -60,4 +62,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
