@@ -36,6 +36,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek102501/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek102501/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
