@@ -29,6 +29,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Abhishek102501/LeetCode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Array
