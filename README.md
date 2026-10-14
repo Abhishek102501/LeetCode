@@ -79,4 +79,20 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek102501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek102501/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek102501/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek102501/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Abhishek102501/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
