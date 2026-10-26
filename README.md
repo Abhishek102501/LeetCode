@@ -39,6 +39,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek102501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek102501/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek102501/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -74,6 +75,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek102501/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
@@ -98,4 +100,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0100-same-tree](https://github.com/Abhishek102501/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhishek102501/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Abhishek102501/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
