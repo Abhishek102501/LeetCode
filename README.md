@@ -39,6 +39,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/Abhishek102501/LeetCode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek102501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abhishek102501/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Abhishek102501/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek102501/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Abhishek102501/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0332-reconstruct-itinerary](https://github.com/Abhishek102501/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -125,4 +126,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Abhishek102501/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Abhishek102501/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
