@@ -33,6 +33,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0332-reconstruct-itinerary](https://github.com/Abhishek102501/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0771-jewels-and-stones](https://github.com/Abhishek102501/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/Abhishek102501/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek102501/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -130,4 +131,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Abhishek102501/LeetCode/tree/master/0198-house-robber) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek102501/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
